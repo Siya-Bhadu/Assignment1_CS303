@@ -4,8 +4,8 @@
 ## Description
 This C++ program reads integers from an input file (A1input.txt) into a one-dimensional array and performs the following operations:
 
-1. Find an integer in the array – returns the index if found.
-2. Modify a value at a specified index – shows old and new values.
+1. Find an integer in the array â€“ returns the index if found.
+2. Modify a value at a specified index â€“ shows old and new values.
 3. Add a new integer to the end of the array.
 4. Remove an integer at a specified index.
 
@@ -35,26 +35,36 @@ The program also demonstrates exception handling for invalid user inputs and arr
 
 ## Sample Outputs
 
-1. Find an integer in the array – returns the index if found.
-
-images\Screenshot 2025-09-15 220926.png
+1. Find an integer in the array â€“ returns the index if found.
 
 
-
-
-
-2. Modify a value at a specified index – shows old and new values.
+<img width="1720" height="698" alt="Screenshot 2025-09-15 222023" src="https://github.com/user-attachments/assets/7ffb243a-bf91-4347-8302-4821ccf58d6f" />
 
 
 
+
+
+2. Modify a value at a specified index â€“ shows old and new values.
+
+
+
+<img width="1718" height="615" alt="Screenshot 2025-09-15 222052" src="https://github.com/user-attachments/assets/b9357b7b-2317-4b8b-80c4-6cf39876b58d" />
 
 
 
 3. Add a new integer to the end of the array.
 
 
+<img width="1718" height="621" alt="Screenshot 2025-09-15 222110" src="https://github.com/user-attachments/assets/63528f8f-18e1-437f-9823-aa3b0b012164" />
 
 
 
 
 4. Remove an integer at a specified index.
+
+
+
+<img width="1723" height="775" alt="Screenshot 2025-09-15 222135" src="https://github.com/user-attachments/assets/f583029b-c048-4583-9414-c362159c3d2a" />
+
+
+
