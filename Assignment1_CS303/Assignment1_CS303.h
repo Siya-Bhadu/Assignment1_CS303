@@ -20,3 +20,4 @@ void addIntToArray(int array[], int& size, int newInt);
 
 // 4. Function that removes an integer from the array at a given index
 void removeInt(int array[], int& size, int indexToModify);
+
